@@ -37,3 +37,4 @@ print(top_three)
 
 # double checking by just grabbing those three numbers in that list and adding them
 # print(68164 + 69894 + 70509)
+
